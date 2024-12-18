@@ -1,4 +1,4 @@
-# airbnb-price-analysis-zurich
+# Airbnb Price Analysis in Zurich
 ## Project Overview
 
 This project analyzes Airbnb prices in Zurich using data sourced from [Inside Airbnb](https://insideairbnb.com/zurich/). The analysis was performed using Power BI, focusing on key factors that affect accommodation pricing. The dataset includes three primary tables: **calendar**, **listing**, and **review**. These were combined and transformed using Power Query to derive meaningful insights.
