@@ -67,3 +67,29 @@ The raw data required preprocessing to make it suitable for analysis. Key transf
 ### 6. **Percentage of Bedrooms per Zone**
 
 - The analysis showed varying distributions of listings with different numbers of bedrooms across Zurich. This insight helps understand the general accommodation offerings in each zone.
+
+## Visualizations
+
+The Power BI report contains the following key visualizations:
+
+- **Map Visualizations** for price and accommodation distribution across the 12 districts.
+- **Bar Charts** comparing average prices by property type and area.
+- **Line Graphs** showing price trends over time.
+- **Heat Maps** illustrating pricing patterns across Zurich zones.
+- **Pie Charts** representing bedroom distribution across areas.
+
+## Future Enhancements
+
+- **Dynamic Price Prediction:** Implement machine learning algorithms to predict future pricing trends based on variables like location, property type, and seasonality.
+- **Guest Feedback Analysis:** Integrate guest reviews to assess how guest satisfaction impacts pricing, especially for highly-rated listings.
+- **Comparison with Other Cities:** Expand the analysis to include comparison with Airbnb pricing in other Swiss cities or international locations.
+
+## Contribution
+
+Contributions are welcome! If you have suggestions or improvements for this analysis, feel free to open an issue or submit a pull request.
+
+## Acknowledgments
+
+- Thanks to [Inside Airbnb](https://insideairbnb.com/zurich/) for providing the dataset.
+- Thanks to Power BI for enabling intuitive data visualization.
+- Data preprocessing tools in Power Query and DAX were instrumental in transforming the raw data for analysis.
